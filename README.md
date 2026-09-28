@@ -8,3 +8,4 @@ I use it to keep my Git and GitHub labs and assignments.
 - School: [Antelope Valley College](https://www.avc.edu)
 - Course: CS110
 - Author: Shania Spellman
+add readme
