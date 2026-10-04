@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram id="B_QuBwutHTOYjrp7txUs" name="Page-1">
+        <mxGraphModel dx="616" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-16" edge="1" parent="1" source="quX2T_NMtE3MWpt4OwqC-14" style="edgeStyle=none;html=1;" target="quX2T_NMtE3MWpt4OwqC-15" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="start" vertex="1">
+                    <mxGeometry height="80" width="100" x="230" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-18" edge="1" parent="1" source="quX2T_NMtE3MWpt4OwqC-15" style="edgeStyle=none;html=1;" target="quX2T_NMtE3MWpt4OwqC-17" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-15" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="read number n" vertex="1">
+                    <mxGeometry height="60" width="120" x="220" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-19" edge="1" parent="1" source="quX2T_NMtE3MWpt4OwqC-17" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.583;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="quX2T_NMtE3MWpt4OwqC-26">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-21" connectable="0" parent="quX2T_NMtE3MWpt4OwqC-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="yes" vertex="1">
+                    <mxGeometry relative="1" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-24" edge="1" parent="1" source="quX2T_NMtE3MWpt4OwqC-17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="quX2T_NMtE3MWpt4OwqC-29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-25" connectable="0" parent="quX2T_NMtE3MWpt4OwqC-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+                    <mxGeometry relative="1" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;" value="&lt;div&gt;n%2==0&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="90" width="160" x="200" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-26" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="print &quot;even&quot;" vertex="1">
+                    <mxGeometry height="60" width="120" x="130" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-29" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="print &quot;odd&quot;" vertex="1">
+                    <mxGeometry height="60" width="120" x="300" y="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" value="" vertex="1">
+                    <mxGeometry height="50" width="100" x="230" y="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="quX2T_NMtE3MWpt4OwqC-33" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="end" vertex="1">
+                    <mxGeometry height="60" width="100" x="230" y="590" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
